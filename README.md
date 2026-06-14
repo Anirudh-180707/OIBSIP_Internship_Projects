@@ -122,6 +122,4 @@ The CodSoft Data Science Internship provided valuable exposure to real-world mac
 ##  Author
 
 ### Anirudh L
-**B.Tech Computer Science Engineering** 
-
 ---
